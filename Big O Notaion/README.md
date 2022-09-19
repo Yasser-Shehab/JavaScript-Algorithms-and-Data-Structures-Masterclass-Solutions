@@ -4,7 +4,7 @@ Big O notation describes the complexity of your code using algebraic terms.
 
 ## 📷 Screenshots
 
-<div name = "screenshots" align="left" width=1189>
+<div name = "screenshots" align="left" width=1000>
 
 ![Time Complexity Chart](https://github.com/Yasser-Shehab/JavaScript-Algorithms-and-Data-Structures-Masterclass-Solutions/blob/main/Images/BigO/TimeComplexityChart.JPG)
 
