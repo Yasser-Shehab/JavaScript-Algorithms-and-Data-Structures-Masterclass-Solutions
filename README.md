@@ -1,3 +1,3 @@
 # Data Structures & Algorithms
 
-A Repository that contains Problems Solutions and Explanations for popular Algorithms and Data Structures.
+A Repository That Contains Problems Solutions and Explanations for Popular Algorithms and Data Structures.
